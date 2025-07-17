@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+torch
+timm
+albumentations
+Pillow
+numpy
+opencv-python-headless
+gunicorn
